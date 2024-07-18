@@ -1,7 +1,7 @@
 async function fetchCity() {
     let city;
 
-const url = "http://api.weatherapi.com/v1/current.json?key=ca7685f4ad1240139bd154225240607&q=Ankara&aqi=no";
+const url = "https://api.weatherapi.com/v1/current.json?key=ca7685f4ad1240139bd154225240607&q=Ankara&aqi=no";
 
 await fetch(url)
     .then(response =>{
