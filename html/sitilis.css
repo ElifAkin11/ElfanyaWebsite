@@ -57,7 +57,7 @@ h2 {
   font-family:"hey-eloise", sans-serif;
   text-align: center;
   color: #d20062;
-  font-size: 9rem;
+  font-size: 10rem;
   line-height: 0.9;
   margin-top: 5rem;
   padding: 0.9rem;
@@ -120,7 +120,7 @@ p {
 }
 
 #city {
-  font-family: "hey-eloise-watercolor", sans-serif;
+  font-family:"hey-eloise", sans-serif;
   text-align: start;
   color: rgb(48, 203, 136);
   font-size: 5.4rem;
@@ -132,7 +132,7 @@ p {
 }
 
 #remotely {
-  font-family: "hey-eloise-watercolor", sans-serif;
+  font-family:"hey-eloise", sans-serif;
   text-align: center;
   color: rgb(48, 203, 136);
   font-size: 3.1rem;
@@ -183,7 +183,7 @@ p {
 }
 
 #titleScript {
-  font-family: "hey-eloise-watercolor", sans-serif;
+  font-family:"hey-eloise", sans-serif;
   font-size: 3.5rem;
   color: #d20062;
   margin-top: 8rem;
@@ -201,7 +201,7 @@ p {
 }
 
 #titleGraphic {
-  font-family: "hey-eloise-watercolor", sans-serif;
+  font-family:"hey-eloise", sans-serif;
   font-size: 4rem;
   color: #d20062;
   margin-top: 8rem;
@@ -320,14 +320,14 @@ h5 {
 
 #message {
   font-size: 3rem;
-  font-family: "hey-eloise-watercolor", sans-serif;
+  font-family:"hey-eloise", sans-serif;
   letter-spacing: 0.5rem;
   margin-left: 0.5rem;
   color: #f87e8d;
 }
 
 #elfakin {
-  font-family: "hey-eloise-watercolor", sans-serif;
+  font-family:"hey-eloise", sans-serif;
   letter-spacing: 0.6rem;
   margin-block-end: auto;
   color: #d20062;
@@ -418,7 +418,7 @@ footer {
 
   #country{
     font-size: 8rem;
-    font-family: "hey-eloise-watercolor", sans-serif !important;
+    font-family:"hey-eloise", sans-serif !important;
   }
     #experience {
       font-size: 2.2rem;
