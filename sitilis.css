@@ -67,7 +67,7 @@ p {
   font-family: "marseille";
   color: rgb(248, 126, 141);
   text-align: center;
-  font-size: 2.7rem;
+  font-size: 2.4rem;
   padding: 3rem;
   margin-top: 3rem;
 }
@@ -123,19 +123,27 @@ p {
   font-family:"hey-eloise", sans-serif;
   text-align: start;
   color: rgb(48, 203, 136);
-  font-size: 5.4rem;
+  font-size: 3.4rem;
   margin-left: 3.1rem;
   margin-top: -3rem;
-  line-height: 0.9;
+  line-height: 1;
   padding-left: 0.2rem;
   padding-bottom: 0;
+}
+
+#country{
+  font-size: 3.5rem;
+}
+
+#temperature {
+  font-size: 3.5rem;
 }
 
 #remotely {
   font-family:"hey-eloise", sans-serif;
   text-align: center;
   color: rgb(48, 203, 136);
-  font-size: 3.1rem;
+  font-size: 3.5rem;
   padding: 0;
   margin-left: 0;
   margin-top: -0.8rem;
@@ -143,16 +151,16 @@ p {
 
 #experience {
   font-size: 1.9rem;
-  padding: 2em !important;
+  padding: 1.6em !important;
   text-align: left;
   color: rgb(180, 42, 58);
-  margin-top: -2rem;
+  margin-top: -3.4rem;
 }
 
 .social-links {
   display: flex;
   justify-content: center;
-  gap: 20px;
+  gap: 12px;
 }
 
 .social-links a img {
@@ -184,7 +192,7 @@ p {
 
 #titleScript {
   font-family:"hey-eloise", sans-serif;
-  font-size: 3.5rem;
+  font-size: 2.6rem;
   color: #d20062;
   margin-top: 8rem;
   text-align: center;
@@ -192,6 +200,7 @@ p {
   margin-bottom: 2rem;
   font-weight: bold;
   letter-spacing: 0.2rem;
+  margin-left: 2rem;
 }
 
 #titleImg {
@@ -202,7 +211,7 @@ p {
 
 #titleGraphic {
   font-family:"hey-eloise", sans-serif;
-  font-size: 4rem;
+  font-size: 3rem;
   color: #d20062;
   margin-top: 8rem;
   text-align: center;
@@ -225,7 +234,7 @@ p {
 }
 
 .work {
-  margin-top: 20rem;
+  margin-top: 16rem;
   width: 90%;
   margin-left: 3rem;
 }
@@ -417,7 +426,7 @@ footer {
   }
 
   #country{
-    font-size: 8rem;
+    font-size: rem;
     font-family:"hey-eloise", sans-serif !important;
   }
     #experience {
@@ -425,7 +434,7 @@ footer {
       padding-right: 3em !important;
       text-align: left;
       color: rgb(180, 42, 58);
-      margin-top: -2rem;
+      margin-top: -3.4rem;
       line-height: 1.1;
       letter-spacing: 0.1rem;
       padding-left:2.9rem !important;
