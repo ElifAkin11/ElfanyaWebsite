@@ -412,7 +412,7 @@ footer {
     width: 90%;
     margin-left: 5rem;
     margin-top: -5rem;
-    height: 60rem;
+    height: 62rem;
   }
 
   #remotely{
@@ -421,12 +421,15 @@ footer {
 
   #city {
     line-height: 0.8;
-    font-size: 8rem;
+    font-size: 7rem;
     padding-right: 3.5rem;
+    margin-top:2rem;
   }
-
+#temperature{
+  font-size: 7rem;
+}
   #country{
-    font-size: rem;
+    font-size: 6rem;
     font-family:"hey-eloise", sans-serif !important;
   }
     #experience {
@@ -434,8 +437,8 @@ footer {
       padding-right: 3em !important;
       text-align: left;
       color: rgb(180, 42, 58);
-      margin-top: -3.4rem;
-      line-height: 1.1;
+      margin-top: -2rem;
+      line-height: 1;
       letter-spacing: 0.1rem;
       padding-left:2.9rem !important;
   }
