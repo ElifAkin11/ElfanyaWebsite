@@ -493,6 +493,125 @@ footer {
       height: 95rem;
     }
 
+}
+
+@media (min-width: 1919px) {
+
+  h1{
+    font-size: 20rem;
+    margin-top: 12rem;
+  }
+
+  h2{
+    font-size: 16rem;
+    margin-top: -1rem;
+    padding: 3.5rem;
+    letter-spacing: 1rem;
+    line-height: 0.9;
+  }
+
+  .intro{
+    font-size: 4.3rem;
+  }
+
+  #fotome {
+    border-radius: 200px 200px 0px 0px;
+    
+    margin-left: 5rem;
+    margin-top: -5rem;
+    height: 77rem;
+  }
+
+  #remotely{
+    margin-top: -1.3rem;
+  }
+
+  #city {
+    line-height: 0.8;
+    font-size: 7rem;
+    padding-right: 3.5rem;
+    margin-top:2rem;
+  }
+#temperature{
+  font-size: 7rem;
+}
+  #country{
+    font-size: 6rem;
+    font-family:"hey-eloise", sans-serif !important;
+  }
+    #experience {
+      font-size: 3.6rem;
+      padding-right: 3em !important;
+      text-align: left;
+      color: rgb(180, 42, 58);
+      margin-top: -4rem;
+      line-height: 1.1;
+      letter-spacing: 0.1rem;
+      padding-left:2.9rem !important;
+  }
+
+  #intro{
+    padding-left: 7rem;
+    margin-top: 10rem;
+  }
+  .social-links {
+  
+    gap: 40px;
+        margin-left: -31rem;
+        margin-top: -4rem;
+        width: 100%;
+        height: 100%;
+  }
+  #skil {
+    max-width: 40% !important;
+    margin-top: -245rem;
+    margin-left: 65rem;
+  }
+  #titleScript {
+    font-size: 5rem;
+    letter-spacing: 1rem;
+    margin-left: 16rem;
+  }
+
+    #titleImg {
+      margin-top: 2rem;
+      max-width: 50% !important;
+      margin-left: 40rem;
+    }
+    #titleGraphic {
+    font-size: 5rem;
+    letter-spacing: 1rem;
+    margin-left: 16rem;
+    }
+    #bgSolid {
+      height: 135rem; 
+      width: 102%;
+    }
+    .work {
+      margin-top: 16rem;
+      width: 45%;
+      margin-left: 40rem;
+    }
+    #works{
+      margin-left: 25rem;
+    }
+    #card {
+      margin-top: 7rem;
+      margin-left: 35rem; 
+    }
+    #dribbble {
+      margin-left: 38rem;
+    }
+
+    footer{
+      height: 95rem;
+    }
+
+    #footr {
+      padding-top: 15rem;
+      margin-left: 35rem;
+    }
+
 
 }
     
